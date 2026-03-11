@@ -1,0 +1,3 @@
+print('BIENVENIDO A TRIVIA ABURRIDA.COM ')
+
+    
